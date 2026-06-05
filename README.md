@@ -1,4 +1,4 @@
-# 👑 Venous King — Premium Telegram Mini App
+👑 Venous King — Premium Telegram Mini App
 
 [English](#english) | [Русский](#русский)
 
@@ -48,7 +48,8 @@
 
 ---
 
-## 🚀 Live Demo / Демо работы
 
-🔗 **[Открыть приложение / Open App](**[http://t.me/testvking_bot/VenousKing](http://t.me/testvking_bot/VenousKing))
+## 🚀 Live Demo / Демо работы
+🔗 **[Открыть в Telegram / Open in Telegram](https://t.me/testvking_bot/VenousKing)**
+
 
